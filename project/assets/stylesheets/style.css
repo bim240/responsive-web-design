@@ -287,9 +287,9 @@ td {
 ==================================== */
 
 
-@media all and (max-width:500px) {
+@media all and (max-width:700px) {
     .container {
-        max-width: 499px;
+        max-width:499px;
         margin:auto;
     }
     .box1 {
@@ -299,6 +299,7 @@ td {
     .flex-row {
         width: 100%;
         display: flex;
+        flex-wrap: wrap;
         flex-direction: column;
         align-content: center;
     }
