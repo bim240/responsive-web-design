@@ -287,7 +287,7 @@ td {
 ==================================== */
 
 
-@media all and (max-width:700px) {
+@media all and (max-width:650px) {
     .container {
         max-width:499px;
         margin:auto;
